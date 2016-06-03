@@ -1,0 +1,142 @@
+<header>
+		<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+		<div class="headernav">
+			<div class='headernavleft iconfont icon-erweima'>
+				<i class='yo-ico'>
+					&#xe618;
+				</i>
+			</div>
+			<div class="headernavcenter">
+				<input type='text' value='疾病/用药'/>
+				<i class='yo-ico'>&#xe627;</i>
+			</div>
+			<div class="headernavright iconfont icon-xiaoxi">
+				<i class='yo-ico'>
+					&#xe621;
+				</i>
+			</div>
+		</div>
+	</header>
+	<section id='iscroll'>
+		<div>
+			<ul class='linkList'>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList1.jpg">
+					</i>
+					<b>
+						跨境购
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList2.jpg">
+					</i>
+					<b>
+						签到礼
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList3.jpg">
+					</i>
+					<b>
+						互助圈
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList4.jpg">
+					</i>
+					<b>
+						大聚惠
+					</b>
+				</li>
+			</ul>
+			<ul class='linkList1'>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList5.jpg">
+					</i>
+					<b>
+						活力儿童
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList6.jpg">
+					</i>
+					<b>
+						强健男人
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList7.jpg">
+					</i>
+					<b>
+						魅力女人
+					</b>
+				</li>
+				<li>
+					<i>
+						<img src="/myproject/images/linkList8.jpg">
+					</i>
+					<b>
+						幸福晚年
+					</b>
+				</li>
+			</ul>
+			<div class='row_lunbo'>
+				<ul>
+					<li>
+						<div class='rowLiTop'>
+							<h1>今日剁手价</h1>
+							<div>
+								<span>距离结束仅剩</span>
+								<p>
+									<i><span></span></i><b>:</b>
+									<i><span></span></i><b>:</b>
+									<i><span></span></i>
+								</p>
+							</div>
+						</div>
+						<div class="rowLiBottom">
+							<div class='rowBottomLeft'>
+								<img src="/myproject/images/rowList1.jpg"/>
+								
+							</div>
+							<div class='rowBottomRight'>
+								<p>永安健康蓝莓叶黄素</p>
+								<i>
+									<span>￥</span>
+									<b>69.00</b>
+								</i>
+							</div>
+						</div>
+					</li>
+					<li></li>
+					<li></li>
+					<li></li>
+					<li></li>
+				</ul>
+			</div>
+			<div class='small_list'>
+				<ul>
+					<li><a href='#'><img src="/myproject/images/small_list1.jpg"/></a></li>
+					<li></li>
+					<li><a href='#'><img src="/myproject/images/small_list2.jpg"/></a></li>
+					<li></li>
+					<li><a href='#'><img src="/myproject/images/small_list3.jpg"/></a></li>
+					<li></li>
+					<li><a href='#'><img src="/myproject/images/small_list4.jpg"/></a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</section>
